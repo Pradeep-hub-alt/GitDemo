@@ -1,2 +1,4 @@
 # GitDemo
-Example Repository
+This is example repository
+<br>
+Pradeep kumar reddy
